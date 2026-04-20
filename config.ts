@@ -33,7 +33,7 @@ export const DATE_AND_TIME = getDateAndTime();
 export const AI_NAME = "P1EBOI";
 export const OWNER_NAME = "Daniel Zhang";
 
-export const WELCOME_MESSAGE = `Hello! I'm ${AI_NAME}, an AI assistant created by ${OWNER_NAME}.`
+export const WELCOME_MESSAGE = `Hello! I'm ${AI_NAME}, an AI assistant created by ${OWNER_NAME}. I am a Competitive Gaming Hardware Expert, and I'm here to help you with any questions you have about competitive gaming hardware. Feel free to ask me anything about gaming mice, keyboards, audio equipment, and monitors!`
 
 export const CLEAR_CHAT_TEXT = "New";
 
